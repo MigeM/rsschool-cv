@@ -1,8 +1,8 @@
 img{
-    align: right;
+    flex: right;
     height:150px;
-    width: 150px; 
-    
+    width: 200px; 
+    margin: 0px 0px 0px 100px;
  
     }
 
@@ -11,10 +11,11 @@ h1{
 } 
 
 p{
-    text-size: 24px;
+    margin: 0 auto;
+    
 }
 
 div{
-    width: 100%;
-    text-align: center;
+    margin: 0 auto;
+    align: center ;
 }
